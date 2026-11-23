@@ -1,0 +1,35 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "person"
+    },
+    {
+      "id": 2,
+      "name": "bicycle"
+    }
+  ],
+  "annotations": [
+    {
+      "category_id": 1,
+      "image_id": 1,
+      "bbox": [
+        10,
+        10,
+        20,
+        30
+      ]
+    },
+    {
+      "category_id": 2,
+      "image_id": 1,
+      "bbox": [
+        35,
+        15,
+        40,
+        20
+      ]
+    }
+  ]
+}
+
